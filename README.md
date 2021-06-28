@@ -7,6 +7,7 @@ Ordem das trincas:
 1 Região de origem, 2 Regiao de Destino, 3 Código da Empresa de logistica, 4 Código do vendedor do produto, 5 Tipo de produto
 
 Exemplo das Trincas
+
 Região             Código
 Centro-oeste        111
 Nordeste            333
@@ -15,6 +16,7 @@ Sudeste             888
 Sul                 000
 
 Tipo do Produto    Código
+
 Jóias               000
 Livros              111
 Eletrônicos         333
