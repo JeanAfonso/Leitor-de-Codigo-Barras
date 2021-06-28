@@ -51,7 +51,9 @@ Para realizar o teste, o arquivo a ser executado é o main.py.
 
 Linguagem e IDE utilizada:
 Python, Pycharm
+
 Motivação: A motivação pelo qual utilizo Python é por ser a linguagem ao qual estudo tanto na faculdade quanto fora dela, e pela sua curva de aprendizagem.
 
 To-do:
+
 - Criar testes Unitarios
