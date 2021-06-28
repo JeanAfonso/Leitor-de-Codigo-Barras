@@ -10,17 +10,26 @@ Exemplo das Trincas
 
 Região             Código
 Centro-oeste        111
+
 Nordeste            333
+
 Norte               555
+
 Sudeste             888
+
 Sul                 000
 
 Tipo do Produto    Código
 
+
 Jóias               000
+
 Livros              111
+
 Eletrônicos         333
+
 Bebidas             555
+
 Brinquedos          888
 
 Restrições de envio:
