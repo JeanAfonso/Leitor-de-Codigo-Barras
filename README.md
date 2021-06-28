@@ -8,29 +8,29 @@ Ordem das trincas:
 
 Exemplo das Trincas
 
-Região                    Código
-Centro-oeste               111
+Região  /                  Código
+Centro-oeste -              111
 
-Nordeste                   333
+Nordeste -                  333
 
-Norte                      555
+Norte -                     555
 
-Sudeste                    888
+Sudeste -                   888
 
-Sul                        000
+Sul -                       000
 
-Tipo do Produto           Código
+Tipo do Produto  /         Código
 
 
-Jóias                      000
+Jóias -                     000
 
-Livros                     111
+Livros -                    111
 
-Eletrônicos                333
+Eletrônicos -               333
 
-Bebidas                    555
+Bebidas -                   555
 
-Brinquedos                 888
+Brinquedos -                888
 
 Restrições de envio:
 Não é possível despachar pacotes contendo jóias tendo como região de origem o Centro-oeste;
