@@ -9,6 +9,7 @@ Ordem das trincas:
 Exemplo das Trincas
 
 Região  /                  Código
+
 Centro-oeste -              111
 
 Nordeste -                  333
